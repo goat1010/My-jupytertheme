@@ -1,6 +1,6 @@
 # My-jupytertheme
 
-クラウド上などでも普段使っているようなJupyter Notebookのテーマで作業ができるようにするためのリポジトリ．
+クラウド上などでも普段使っているようなJupyter Notebookのテーマで作業ができるようにするためのリポジトリ
 
 ## How To Use
 
